@@ -11,3 +11,29 @@ https://nostarch.com/rust-programming-language-3rd-edition
 
 https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
 
+<br/>
+
+
+<ul>
+  <li>01. Getting Started</li>
+  <li>02. Programming a Guessing Game</li>
+  <li>03. Common Programming Concepts</li>
+  <li>04. Understanding Ownership</li>
+  <li>05. Using Structs to Structure Related Data</li>
+  <li>06. Enums and Pattern Matching</li>
+  <li>07. Packages, Crates, and Modules</li>
+  <li>08. Common Collections</li>
+  <li>09. Error Handling</li>
+  <li>10. Generic Types, Traits, and Lifetimes</li>
+  <li>11. Writing Automated Tests</li>
+  <li>12. An I/O Project: Building a Command Line Program</li>
+  <li>13. Functional Language Features: Iterators and Closures</li>
+  <li>14. More About Cargo and Crates.io</li>
+  <li>15. Smart Pointers</li>
+  <li>16. Fearless Concurrency</li>
+  <li>17. Fundamentals of Asynchronous Programming</li>
+  <li>18. Object-Oriented Programming Features</li>
+  <li>19. Patterns and Matching</li>
+  <li>20. Advanced Features</li>
+  <li>21. Final Project: Building a Multithreaded Web Server</li>
+</ul>

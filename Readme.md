@@ -4,6 +4,10 @@
 
 https://nostarch.com/rust-programming-language-3rd-edition
 
+<br/>
+
+**Rust Playground:**  
+https://play.rust-lang.org/
 
 <br/>
 

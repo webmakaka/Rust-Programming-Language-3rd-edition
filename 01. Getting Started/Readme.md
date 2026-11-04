@@ -13,3 +13,20 @@ cargo 1.99.1 (5f94df478 2026-08-27)
 $ cargo new hello_cargo
 $ cd hello_cargo/
 ```
+
+
+<br/>
+
+```shell
+$ cargo run
+$ cargo build
+$ cargo check
+```
+
+<br/>
+
+```shell
+$ ./target/debug/hello_cargo 
+Hello, world!
+```
+

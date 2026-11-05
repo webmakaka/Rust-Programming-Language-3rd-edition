@@ -19,8 +19,8 @@ https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H
 
 
 <ul>
-  <li>:book: :hammer: :white_check_mark: 01. Getting Started</li>
-  <li>02. Programming a Guessing Game</li>
+  <li>:white_check_mark: :book: :hammer_and_wrench:  01. Getting Started</li>
+  <li>:white_check_mark: :book: :hammer_and_wrench: 02. Programming a Guessing Game</li>
   <li>03. Common Programming Concepts</li>
   <li>04. Understanding Ownership</li>
   <li>05. Using Structs to Structure Related Data</li>

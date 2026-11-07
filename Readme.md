@@ -19,10 +19,10 @@ https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H
 
 
 <ul>
-  <li>:white_check_mark: :book: :hammer_and_wrench:  01. Getting Started</li>
+  <li>:white_check_mark: :book: :hammer_and_wrench: 01. Getting Started</li>
   <li>:white_check_mark: :book: :hammer_and_wrench: 02. Programming a Guessing Game</li>
-  <li>03. Common Programming Concepts</li>
-  <li>04. Understanding Ownership</li>
+  <li>:white_check_mark: :book: :hammer_and_wrench: 03. Common Programming Concepts</li>
+  <li>:white_check_mark: :book: :hammer_and_wrench: 04. Understanding Ownership</li>
   <li>05. Using Structs to Structure Related Data</li>
   <li>06. Enums and Pattern Matching</li>
   <li>07. Packages, Crates, and Modules</li>

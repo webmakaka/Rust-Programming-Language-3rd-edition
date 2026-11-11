@@ -11,12 +11,7 @@ https://play.rust-lang.org/
 
 <br/>
 
-**Videos to Old book version:**
-
-https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
-
-<br/>
-
+## Contents
 
 <ul>
   <li>:white_check_mark: :book: :hammer_and_wrench: 01. Getting Started</li>
@@ -41,3 +36,10 @@ https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H
   <li>20. Advanced Features</li>
   <li>21. Final Project: Building a Multithreaded Web Server</li>
 </ul>
+
+
+<br/>
+
+**Videos to Old book version:**
+
+https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8

@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H
   <li>:white_check_mark: :book: :hammer_and_wrench: 03. Common Programming Concepts</li>
   <li>:white_check_mark: :book: :hammer_and_wrench: 04. Understanding Ownership</li>
   <li>:white_check_mark: :book: :hammer_and_wrench: 05. Using Structs to Structure Related Data</li>
-  <li>06. Enums and Pattern Matching</li>
+  <li>:white_check_mark: :book: :hammer_and_wrench: 06. Enums and Pattern Matching</li>
   <li>07. Packages, Crates, and Modules</li>
   <li>08. Common Collections</li>
   <li>09. Error Handling</li>

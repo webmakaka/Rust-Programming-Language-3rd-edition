@@ -21,7 +21,7 @@ https://play.rust-lang.org/
   <li>:white_check_mark: :book: :hammer_and_wrench: 05. Using Structs to Structure Related Data</li>
   <li>:white_check_mark: :book: :hammer_and_wrench: 06. Enums and Pattern Matching</li>
   <li>:white_check_mark: :book: :hammer_and_wrench: 07. Packages, Crates, and Modules</li>
-  <li>08. Common Collections</li>
+  <li>:white_check_mark: :book: :hammer_and_wrench: 08. Common Collections</li>
   <li>09. Error Handling</li>
   <li>10. Generic Types, Traits, and Lifetimes</li>
   <li>11. Writing Automated Tests</li>

@@ -26,7 +26,7 @@ https://play.rust-lang.org/
   <li>:white_check_mark: :book: :hammer_and_wrench: 10. Generic Types, Traits, and Lifetimes</li>
   <li>:white_check_mark: :book: :hammer_and_wrench: 11. Writing Automated Tests</li>
   <li>:white_check_mark: :book: :hammer_and_wrench: 12. An I/O Project: Building a Command Line Program</li>
-  <li>13. Functional Language Features: Iterators and Closures</li>
+  <li>:white_check_mark: :book: :hammer_and_wrench: 13. Functional Language Features: Iterators and Closures</li>
   <li>14. More About Cargo and Crates.io</li>
   <li>15. Smart Pointers</li>
   <li>16. Fearless Concurrency</li>

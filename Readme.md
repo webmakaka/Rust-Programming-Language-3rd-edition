@@ -29,7 +29,7 @@ https://play.rust-lang.org/
   <li>:white_check_mark: :book: :hammer_and_wrench: 13. Functional Language Features: Iterators and Closures</li>
   <li>:white_check_mark: :book: :hammer_and_wrench: 14. More About Cargo and Crates.io</li>
   <li>:white_check_mark: :book: :hammer_and_wrench: 15. Smart Pointers</li>
-  <li>16. Fearless Concurrency</li>
+  <li>:white_check_mark: :book: :hammer_and_wrench: 16. Fearless Concurrency</li>
   <li>17. Fundamentals of Asynchronous Programming</li>
   <li>18. Object-Oriented Programming Features</li>
   <li>19. Patterns and Matching</li>
